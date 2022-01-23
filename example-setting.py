@@ -1,0 +1,2 @@
+
+botToken = "Bot token"
